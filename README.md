@@ -32,11 +32,17 @@ SecureSphere is a **Python-based cybersecurity toolkit** that allows users to:
 - **SSL & Socket** – Certificate validation
 
 ---
-Visual demonstration of SecureSphere’s website security analysis and file encryption/decryption workflow.
-<img width="821" height="675" alt="Screenshot 2025-08-06 010926" src="https://github.com/user-attachments/assets/9464e130-8a1a-40f5-850a-43ce1178ea3d" />
 
-<img width="1011" height="392" alt="Screenshot 2025-08-06 010846" src="https://github.com/user-attachments/assets/2c47da5b-37ed-4900-a722-5f09d0de7868" />
-Detailed project report documenting SecureSphere’s objectives, architecture, implementation, and security analysis results
+## 📸 Project Visuals
+Visual demonstration of **SecureSphere’s website security analysis** and **file encryption/decryption workflow**:
 
-[crypto (2).pdf](https://github.com/user-attachments/files/21606155/crypto.2.pdf)
+<img width="821" height="675" alt="SecureSphere Web Scan" src="https://github.com/user-attachments/assets/9464e130-8a1a-40f5-850a-43ce1178ea3d" />
 
+<img width="1011" height="392" alt="SecureSphere Encryption" src="https://github.com/user-attachments/assets/2c47da5b-37ed-4900-a722-5f09d0de7868" />
+
+---
+
+## 📄 Project Report
+Detailed project report **documenting SecureSphere’s objectives, architecture, implementation, and security analysis results**:  
+
+[📥 Download Project Report (PDF)](https://github.com/user-attachments/files/21606225/SecureSphere.pdf)
