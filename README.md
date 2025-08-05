@@ -33,5 +33,8 @@ SecureSphere is a **Python-based cybersecurity toolkit** that allows users to:
 
 ---
 
+<img width="821" height="675" alt="Screenshot 2025-08-06 010926" src="https://github.com/user-attachments/assets/9464e130-8a1a-40f5-850a-43ce1178ea3d" />
+
+<img width="1011" height="392" alt="Screenshot 2025-08-06 010846" src="https://github.com/user-attachments/assets/2c47da5b-37ed-4900-a722-5f09d0de7868" />
 
 
